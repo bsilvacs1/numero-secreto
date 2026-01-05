@@ -66,15 +66,7 @@ O objetivo desta aplicação simples e funcional é permitir que o utilizador pu
 ### Widget
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-![Mobile1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile01.png)<br>
-![Mobile2](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile02.png)<br>
-![Mobile3](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile03.png)
 
-### Widget em uma página externa
-
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk01.png)
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk02.png)
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk03.png)
 
 ---
 
@@ -118,7 +110,7 @@ As seguintes ferramentas foram utilizadas no desenvolvimento do projeto:
 
 <!-- MODELO DE AUTOR-->
 ## 🦸 Autor
-**Bruno Silva**
+**- Bruno Silva**
 <a href="https://www.linkedin.com/in/brunonsilva/">
 </a>
 
